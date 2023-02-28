@@ -3,6 +3,9 @@ A simple metal case (enclosure) for a PC controller, using Arduino Leonardo, thr
 
 **Youtube video: https://youtu.be/e2UNsZPjHkk**
 
+![THUMB_arduino_custom_case_cnc2](https://user-images.githubusercontent.com/117754156/221865887-1f1428a1-d5d8-464e-a430-a2c34d8357c1.jpg)
+
+
 Links from the video:
 - Huge Aluminium Knob: https://s.click.aliexpress.com/e/_Dlt9iKZ
 - Arduino Leonardo - https://s.click.aliexpress.com/e/_DDhZNN9
